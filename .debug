@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExtensionList>
+    <Extension Id="com.signing-test.panel">
+        <HostList>
+            <Host Name="ILST" Port="4465" />
+            <Host Name="AEFT" Port="4466" />
+        </HostList>
+    </Extension>
+</ExtensionList>
